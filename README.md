@@ -1,4 +1,4 @@
-#cw-in-sed
+# cw-in-sed
 Generates a Morse-code tones (actual sound, not a dots and dashes on the screen).
 
 Usage variants:
