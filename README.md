@@ -10,3 +10,4 @@ echo Hi | ./cw.sed | aplay -r 64000
 echo Hi | ./cw.sed | aplay -r 8000 -c 2
 echo Message | ./cw.sed | sox -t raw -r 64k -c 1 -e unsigned -b 8 - -d
 ```
+N.B., Written for the GNU sed.
